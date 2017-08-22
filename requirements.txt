@@ -1,0 +1,11 @@
+certifi==2017.7.27.1
+chardet==3.0.4
+feedparser==5.2.1
+idna==2.6
+pkg-resources==0.0.0
+psycopg2==2.7.3
+requests==2.18.4
+six==1.10.0
+SQLAlchemy==1.1.13
+SQLAlchemy-Utils==0.32.14
+urllib3==1.22
